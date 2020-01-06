@@ -7,7 +7,7 @@ def toadstool
   puts phrase
 end
 
-def link(phrase)
+def link
   puts phrase
 end 
 
