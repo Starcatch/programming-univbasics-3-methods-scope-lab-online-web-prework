@@ -3,7 +3,7 @@ def catch_phrase(phrase)
 end
 
 def toadstool
-  puts status
+  puts toadstool
 end
 
 def link(phrase)
